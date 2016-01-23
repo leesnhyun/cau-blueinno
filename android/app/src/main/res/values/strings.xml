@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blueinno-lcd-test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="findDevice">블루투스 기계찾기</string>
+    <string name="send">전송</string>
+
+</resources>
