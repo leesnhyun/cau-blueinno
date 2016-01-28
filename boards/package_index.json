@@ -1,0 +1,51 @@
+{
+   "packages":[
+      {
+         "name":"BlueInno",
+         "maintainer":"BlueInno",
+         "websiteURL":"https://blueinno.com",
+         "email":"leesnhyun@naver.com",
+         "help":{
+            "online":"https://happs.gtz.kr"
+         },
+         "platforms":[
+            {
+               "name":"Blueinno board",
+               "architecture":"avr",
+               "version":"1.6.5",
+               "category":"Contributed",
+               "url":"https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfunboards.1.1.2.tar.bz2",
+               "archiveFileName":"sparkfunboards.1.1.2.tar.bz2",
+               "checksum":"SHA-256:ff12b10a929f551b1383cba408ddc7535a9cb8b6224b09d8162b22fc3cd82b0e",
+               "size":"1138406",
+               "help":{
+                  "online":"https://forums.sparkfun.com"
+               },
+               "boards":[
+                  { "name":"BlueInno" }
+               ],
+               "toolsDependencies":[
+                  {
+                     "packager":"arduino",
+                     "name":"avr-gcc",
+                     "version":"4.8.1-arduino5"
+                  },
+                  {
+                     "packager":"arduino",
+                     "name":"avrdude",
+                     "version":"6.0.1-arduino5"
+                  }
+               ]
+            }
+         ],
+         "tools":[]
+      }
+      ],
+	
+	"tools": [
+
+	]
+	
+	}
+   ]
+}
