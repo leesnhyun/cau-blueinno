@@ -3,10 +3,10 @@
       {
          "name":"BlueInno",
          "maintainer":"BlueInno",
-         "websiteURL":"http://www.BlueInno.com",
-         "email":"support@BlueInno.com",
+         "websiteURL":"http://cafe.naver.com/arduinoplusble",
+         "email":"dwlee@blueinno.co.kr",
          "help":{
-            "online":"http://forum.BlueInno.com"
+            "online":"http://cafe.naver.com/arduinoplusble"
          },
          "platforms":[
             {
@@ -14,12 +14,12 @@
                "architecture": "BlueInno",
                "version": "1.0.0",
                "category": "Arduino",
-               "url": "http://www.BlueInno.com/downloads/BlueInno_600.tar.gz",
+               "url": "https://github.com/leesnhyun/CAU_blueinno/blob/master/boards/BlueInno.zip",
                "archiveFileName": "BlueInno.zip",
                "checksum": "SHA-256:CC62AF57F7F4A3BFB89E33A82DDDF289799A953116B227E165A7A2D01F70B1B9",
                "size": "39226311",
                "help":{
-                  "online":"http://forum.BlueInno.com"
+                  "online":"http://cafe.naver.com/arduinoplusble"
                },
                "boards": [
                   {
